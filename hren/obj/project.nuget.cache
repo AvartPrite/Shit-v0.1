@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "lDgrHismT9RA89SIBl34Qcp1HwpzGPVT0WdaU0XCWfEW+1HsoVZLMfqsyQbCJCYlTydTx1rricxNdB7eEh20nQ==",
+  "success": true,
+  "projectFilePath": "/home/avart/Code/Code.csproj",
+  "expectedPackageFiles": [
+    "/home/avart/.nuget/packages/netcoreaudio/1.7.0/netcoreaudio.1.7.0.nupkg.sha512",
+    "/home/avart/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.0/microsoft.aspnetcore.app.ref.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

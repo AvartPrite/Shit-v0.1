@@ -1,0 +1,17 @@
+/home/avart/Code/bin/Debug/net7.0/Code
+/home/avart/Code/bin/Debug/net7.0/Code.deps.json
+/home/avart/Code/bin/Debug/net7.0/Code.runtimeconfig.json
+/home/avart/Code/bin/Debug/net7.0/Code.dll
+/home/avart/Code/bin/Debug/net7.0/Code.pdb
+/home/avart/Code/obj/Debug/net7.0/Code.csproj.AssemblyReference.cache
+/home/avart/Code/obj/Debug/net7.0/Code.GeneratedMSBuildEditorConfig.editorconfig
+/home/avart/Code/obj/Debug/net7.0/Code.AssemblyInfoInputs.cache
+/home/avart/Code/obj/Debug/net7.0/Code.AssemblyInfo.cs
+/home/avart/Code/obj/Debug/net7.0/Code.csproj.CoreCompileInputs.cache
+/home/avart/Code/obj/Debug/net7.0/Code.dll
+/home/avart/Code/obj/Debug/net7.0/refint/Code.dll
+/home/avart/Code/obj/Debug/net7.0/Code.pdb
+/home/avart/Code/obj/Debug/net7.0/Code.genruntimeconfig.cache
+/home/avart/Code/obj/Debug/net7.0/ref/Code.dll
+/home/avart/Code/bin/Debug/net7.0/NetCoreAudio.dll
+/home/avart/Code/obj/Debug/net7.0/Code.csproj.CopyComplete

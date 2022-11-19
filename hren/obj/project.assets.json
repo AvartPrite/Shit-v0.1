@@ -1,0 +1,105 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0": {
+      "NetCoreAudio/1.7.0": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/NetCoreAudio.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/NetCoreAudio.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NetCoreAudio/1.7.0": {
+      "sha512": "5pFxP/gwY31QVTVoh+3QhnenyHiP5uyPEy/vG6MArmTqdnZc8mMxwMWemsoRKMNGcC/o3/lW/H/YBX9dgZy/nA==",
+      "type": "package",
+      "path": "netcoreaudio/1.7.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE",
+        "icon.jpg",
+        "lib/netstandard2.0/NetCoreAudio.dll",
+        "netcoreaudio.1.7.0.nupkg.sha512",
+        "netcoreaudio.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net7.0": [
+      "NetCoreAudio >= 1.7.0"
+    ]
+  },
+  "packageFolders": {
+    "/home/avart/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/home/avart/Code/Code.csproj",
+      "projectName": "Code",
+      "projectPath": "/home/avart/Code/Code.csproj",
+      "packagesPath": "/home/avart/.nuget/packages/",
+      "outputPath": "/home/avart/Code/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/home/avart/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0": {
+        "targetAlias": "net7.0",
+        "dependencies": {
+          "NetCoreAudio": {
+            "target": "Package",
+            "version": "[1.7.0, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[7.0.0, 7.0.0]"
+          }
+        ],
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/7.0.100/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
